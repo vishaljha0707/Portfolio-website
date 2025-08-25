@@ -54,9 +54,10 @@ function App() {
     },
     {
       id: 3,
-      title: 'Real-Time Location Tracker',
-      category: 'Tracker',
-      image: 'https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee?q=80&w=1212&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+      title: 'V-chats',
+      category: 'Opinion Sharing Platform',
+      image: 'https://media.istockphoto.com/id/1413735503/photo/social-media-social-media-marketing-thailand-social-media-engagement-post-structure.jpg?s=1024x1024&w=is&k=20&c=hoho5UxFMxRK4u2AmtYl2i-psyyZROlXRrqsGfx1LSw=',
+      link:'https://github.com/vishaljha0707/v-chats-.git'
       }
   ];
 
@@ -158,7 +159,7 @@ const stats = [
               <div className="relative">
                 <div className="w-80 h-80 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full opacity-20 absolute blur-3xl -z-10 animate-pulse"></div>
                 <img 
-                  src="https://i.ibb.co/006Brg6/Whats-App-Image-2025-07-10-at-11-47-49-AM.jpg"
+                  src="https://i.ibb.co/LdKnQWjr/20250825-1120-image-1.png"
                   alt="Vishal jha" 
                   className="w-80 h-80 object-cover rounded-2xl shadow-2xl border-4 border-gray-800"
                 />
